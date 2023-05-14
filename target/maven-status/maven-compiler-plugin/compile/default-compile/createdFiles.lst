@@ -1,0 +1,12 @@
+br\com\cafi\associacaoapriori\modelo\entidade\ItemPedido.class
+bo\PedidoBO.class
+br\com\cafi\associacaoapriori\modelo\dao\PedidoDAO.class
+bo\ProdutoBO.class
+br\com\cafi\associacaoapriori\modelo\dao\SimpleEntityManager.class
+br\com\cafi\associacaoapriori\modelo\entidade\Produto.class
+br\com\cafi\associacaoapriori\modelo\dao\ItemPedidoDAO.class
+bo\ItemPedidoBO.class
+br\com\cafi\associacaoapriori\Main.class
+br\com\cafi\associacaoapriori\modelo\dao\DAO.class
+br\com\cafi\associacaoapriori\modelo\dao\ProdutoDAO.class
+br\com\cafi\associacaoapriori\modelo\entidade\Pedido.class
